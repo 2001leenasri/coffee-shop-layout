@@ -1,0 +1,1128 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+.header{
+background-color: aqua;
+height: 15vh;
+width: 100%;
+}
+.topbar{
+    background-color: rgb(46, 119, 119);
+    height: 80px;
+    width: 99%;
+    position: relative;
+    top:9px ;
+    left:8px ;
+}
+.brand{
+    background-color: rgb(18, 128, 231);
+    height: 60px;
+    width: 6%;
+    position: relative;
+    top:9px ;
+    left:8px ;
+}
+.navlinks{
+    background-color: rgb(96, 221, 65);
+    height: 60px;
+    width: 538%;
+    position: relative;
+    top:2px ;
+    left:880px ; 
+}
+.header2{
+    background-color: rgb(178, 236, 69);
+    height: 66vh;
+    width: 100%;
+}
+.masthead{
+    background-color: rgb(221, 140, 65);
+    height: 408px;
+    width: 98.5%;
+    position: relative;
+    top:10px ;
+    left:9px ;
+}
+.jumbotron{
+    background-color: rgb(212, 117, 224);
+    height: 385px;
+    width: 50%;
+    position: relative;
+    top:12px ;
+    left:9px ;
+}
+.h1{
+    background-color: rgb(41, 52, 192);
+    height: 45px;
+    width: 50.5%;
+    position: relative;
+    top:80px ;
+    left:160px ;
+}
+.p1{
+    background-color: rgb(41,52,192);
+    height: 45px;
+    width: 120%;
+    position: relative;
+    top:60px ;
+    left:-30px ;
+}
+.button{
+    background-color: rgb(41,52,192);
+    height: 45px;
+    width: 40%;
+    position: relative;
+    top:60px ;
+    left:115px ;
+}
+.main{
+    background-color: rgb(228, 69, 30);
+    height: 66vh;
+    width: 100%;
+}
+.about{
+    background-color: rgb(221, 140, 65);
+    height: 409px;
+    width: 98.5%;
+    position: relative;
+    top:11px ;
+    left:9px ;
+}
+.aboutimage{
+    background-color: rgb(40, 218, 40);
+    height: 388px;
+    width: 40%;
+    position: relative;
+    top:11px ;
+    left:9px ;
+}
+.image{
+    background-color: rgb(41,52,192);
+    height: 360px;
+    width: 95%;
+    position: relative;
+    top:13px ;
+    left:10px ;
+}
+.jumbotron2{
+    background-color: rgb(100, 231, 24);
+    height: 388px;
+    width: 151%;
+    position: relative;
+    top:-12px ;
+    left:530px ;
+}
+.h2{
+    background-color: rgb(41, 52, 192);
+    height: 45px;
+    width: 50.5%;
+    position: relative;
+    top:100px ;
+    left:200px ;
+}
+.p2{
+    background-color: rgb(41,52,192);
+    height: 45px;
+    width: 120%;
+    position: relative;
+    top:60px ;
+    left:-40px ;
+}
+.button1{
+    background-color: rgb(41,52,192);
+    height: 45px;
+    width: 40%;
+    position: relative;
+    top:60px ;
+    left:120px ;
+}
+.main1{
+    background-color: rgb(114, 235, 15);
+    height: 80vh;
+    width: 100%;
+}
+.facility{
+    background-color: rgb(231, 28, 28);
+    height: 500px;
+    width: 98.5%;
+    position: relative;
+    top:11px ;
+    left:9px ;
+}
+.ourneeds{
+    background-color: rgb(28, 231, 146);
+    height: 120px;
+    width: 98.5%;
+    position: relative;
+    top:11px ;
+    left:10px;
+}
+.image1{
+    background-color: rgb(209, 79, 181);
+    height: 45px;
+    width: 30%;
+    position: relative;
+    top:11px ;
+    left:450px;
+    border-radius: 8px;
+}
+.h3{
+    background-color: rgb(209, 79, 181);
+    height: 50px;
+    width: 115%;
+    position: relative;
+    top:50px ;
+    left:-25px;
+    border-radius: 8px;
+}
+.coffeevarieties{
+    background-color: rgb(21, 52, 138);
+    height: 53vh;
+    width: 290%;
+    position: relative;
+    top:70px ;
+    left:-425px;
+}
+.item1{
+    height: 325px;
+    width: 25%;
+    background-color: rgb(161, 17, 17);
+    position: relative;
+    top: 11px;
+    left: 10px;
+}
+.image2 {
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.h4 {
+    background-color: rgb(209, 79, 181);
+    height: 60px;
+    width: 90%;
+    position: relative;
+    top:175px ;
+    left:10px;
+    border-radius: 8px;
+}
+.p3 {
+    background-color: rgb(209, 79, 181);
+    height: 58px;
+    width: 110%;
+    position: relative;
+    top:70px ;
+    left:-10px;
+    border-radius: 8px;
+}
+.beans{
+    height: 325px;
+    width: 110%;
+    background-color: rgb(161,17,17);
+    position: relative;
+    top: -256px;
+    left: 330px;
+}
+.image3 {
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.h5 {
+    background-color: rgb(209, 79, 181);
+    height: 60px;
+    width: 90%;
+    position: relative;
+    top:175px ;
+    left:10px;
+    border-radius: 8px;
+}
+.p4 {
+    background-color: rgb(209, 79, 181);
+    height: 58px;
+    width: 110%;
+    position: relative;
+    top:70px ;
+    left:-10px;
+    border-radius: 8px;
+}
+.sweet{
+    height: 325px;
+    width: 110%;
+    background-color: rgb(161, 17, 17);
+    position: relative;
+    top: -255px;
+    left: 314px;
+}
+.image4 {
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.h6{
+    background-color: rgb(209, 79, 181);
+    height: 60px;
+    width: 90%;
+    position: relative;
+    top:175px ;
+    left:10px;
+    border-radius: 8px;
+}
+.p5 {
+    background-color: rgb(209, 79, 181);
+    height: 58px;
+    width: 110%;
+    position: relative;
+    top:70px ;
+    left:-10px;
+    border-radius: 8px;
+}
+.coolcoffee{
+    height: 325px;
+    width: 110%;
+    background-color: rgb(161,17,17);
+    position: relative;
+    top: -256px;
+    left: 300px;
+}
+.image5 {
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.h7 {
+    background-color: rgb(209, 79, 181);
+    height: 60px;
+    width: 90%;
+    position: relative;
+    top:175px ;
+    left:10px;
+    border-radius: 8px;
+}
+.p6 {
+    background-color: rgb(209, 79, 181);
+    height: 58px;
+    width: 110%;
+    position: relative;
+    top:70px ;
+    left:-10px;
+    border-radius: 8px;
+}
+.container{
+    height:105vh ;
+    width: 100%;
+    background-color:cadetblue ;
+}
+.menu{
+    background-color: rgb(41,52,192);
+    height: 101.5vh;
+    width: 98.5%;
+    position: relative;
+    top:13px ;
+    left:10px ;  
+}
+.popularmenu{
+    background-color: rgb(41, 192, 79);
+    height: 120px;
+    width: 98.5%;
+    position: relative;
+    top:10px ;
+    left:10px ;
+}
+.image6{
+    background-color: rgb(209, 79, 181);
+    height: 45px;
+    width: 30%;
+    position: relative;
+    top:11px ;
+    left:450px;
+    border-radius: 8px;
+}
+.h8{
+    background-color: rgb(209, 79, 181);
+    height: 50px;
+    width: 115%;
+    position: relative;
+    top:50px ;
+    left:-25px;
+    border-radius: 8px;
+}
+.menu1{
+    background-color: rgb(21, 138, 118);
+    height: 78vh;
+    width: 290%;
+    position: relative;
+    top:70px ;
+    left:-425px;
+}
+.lovecoffee1{
+    height: 240px;
+    width: 20%;
+    background-color: rgb(132, 17, 161);
+    position: relative;
+    top: 10px;
+    left: 200px;
+}
+.image7 {
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.h9 {
+    background-color: rgb(209, 79, 181);
+    height: 50px;
+    width: 90%;
+    position: relative;
+    top:170px ;
+    left:10px;
+    border-radius: 8px;
+}
+.cappucino{
+    height: 240px;
+    width: 120%;
+    background-color: rgb(132, 17, 161);
+    position: relative;
+    top: -180px;
+    left: 300px;
+}
+.image8 {
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.h10 {
+    background-color: rgb(209, 79, 181);
+    height: 50px;
+    width: 90%;
+    position: relative;
+    top:170px ;
+    left:10px;
+    border-radius: 8px;
+}
+.mochacoffee{
+    height: 240px;
+    width: 130%;
+    background-color: rgb(132, 17, 161);
+    position: relative;
+    top: -180px;
+    left: 290px;
+}
+.image9 {
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.h11 {
+    background-color: rgb(209, 79, 181);
+    height: 50px;
+    width: 90%;
+    position: relative;
+    top:170px ;
+    left:10px;
+    border-radius: 8px;
+}
+.frappucino{
+    height: 240px;
+    width: 130%;
+    background-color: rgb(132, 17, 161);
+    position: relative;
+    top: 70px;
+    left: -672px;
+}
+.image10 {
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.h12 {
+    background-color: rgb(209, 79, 181);
+    height: 50px;
+    width: 90%;
+    position: relative;
+    top:170px ;
+    left:10px;
+    border-radius: 8px;
+}
+.black{
+    height: 240px;
+    width: 120%;
+    background-color: rgb(132, 17, 161);
+    position: relative;
+    top: -180px;
+    left: 297px;
+}
+.image11 {
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.h13 {
+    background-color: rgb(209, 79, 181);
+    height: 50px;
+    width: 90%;
+    position: relative;
+    top:170px ;
+    left:10px;
+    border-radius: 8px;
+}
+.heart{
+    height: 240px;
+    width: 130%;
+    background-color: rgb(132, 17, 161);
+    position: relative;
+    top: -182px;
+    left: 290px;
+}
+.image12 {
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.h14 {
+    background-color: rgb(209, 79, 181);
+    height: 50px;
+    width: 90%;
+    position: relative;
+    top:170px ;
+    left:10px;
+    border-radius: 8px;
+}
+.main2{
+    height:90vh ;
+    width: 100%;
+    background-color:rgb(16, 231, 238) ;
+}
+.gallery{
+    background-color: rgb(41,52,192);
+    height: 86.5vh;
+    width: 98.5%;
+    position: relative;
+    top:13px ;
+    left:10px ;  
+}
+.ourgallery{
+    background-color: rgb(41, 192, 79);
+    height: 120px;
+    width: 98.5%;
+    position: relative;
+    top:10px ;
+    left:10px ;
+}
+.image13{
+    background-color: rgb(209, 79, 181);
+    height: 45px;
+    width: 30%;
+    position: relative;
+    top:11px ;
+    left:450px;
+    border-radius: 8px;
+}
+.h15{
+    background-color: rgb(209, 79, 181);
+    height: 50px;
+    width: 115%;
+    position: relative;
+    top:50px ;
+    left:-25px;
+    border-radius: 8px;
+}
+.menugallery{
+    background-color: rgb(21, 138, 118);
+    height: 63vh;
+    width: 290%;
+    position: relative;
+    top:70px ;
+    left:-425px;
+}
+.gallery_1{
+    height: 185px;
+    width: 20%;
+    background-color: rgb(132, 17, 161);
+    position: relative;
+    top: 10px;
+    left: 200px;
+}
+.image14 {
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.gallery_2{
+    height: 185px;
+    width: 120%;
+    background-color: rgb(132, 17, 161);
+    position: relative;
+    top: -10px;
+    left: 290px;
+}
+.image15{
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.gallery_3{
+    height: 185px;
+    width: 110%;
+    background-color: rgb(132, 17, 161);
+    position: relative;
+    top: -10px;
+    left: 290px;
+}
+.image16{
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.gallery_4{
+    height: 185px;
+    width: 110%;
+    background-color: rgb(132, 17, 161);
+    position: relative;
+    top: 194px;
+    left: -633px;
+}
+.image17{
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.gallery_5{
+    height: 185px;
+    width: 120%;
+    background-color: rgb(132, 17, 161);
+    position: relative;
+    top: -13px;
+    left: 290px;
+}
+.image18{
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.gallery_6{
+    height: 185px;
+    width: 110%;
+    background-color: rgb(132, 17, 161);
+    position: relative;
+    top: -13px;
+    left: 290px;
+}
+.image19{
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.main3{
+    height:105vh ;
+    width: 100%;
+    background-color:cadetblue ;
+}
+.team{
+    background-color: rgb(41,52,192);
+    height: 101.5vh;
+    width: 98.5%;
+    position: relative;
+    top:13px ;
+    left:10px ;  
+}
+.ourteam{
+    background-color: rgb(41, 192, 79);
+    height: 120px;
+    width: 98.5%;
+    position: relative;
+    top:10px ;
+    left:10px ;
+}
+.image20{
+    background-color: rgb(209, 79, 181);
+    height: 45px;
+    width: 30%;
+    position: relative;
+    top:11px ;
+    left:450px;
+    border-radius: 8px;
+}
+.h16{
+    background-color: rgb(209, 79, 181);
+    height: 50px;
+    width: 115%;
+    position: relative;
+    top:50px ;
+    left:-25px;
+    border-radius: 8px;
+}
+.member{
+    background-color: rgb(21, 138, 118);
+    height: 78vh;
+    width: 290%;
+    position: relative;
+    top:70px ;
+    left:-425px;
+}
+.john1{
+    height: 240px;
+    width: 20%;
+    background-color: rgb(132, 17, 161);
+    position: relative;
+    top: 10px;
+    left: 200px;
+}
+.image21{
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.h17 {
+    background-color: rgb(209, 79, 181);
+    height: 50px;
+    width: 90%;
+    position: relative;
+    top:170px ;
+    left:10px;
+    border-radius: 8px;
+}
+.john2{
+    height: 240px;
+    width: 120%;
+    background-color: rgb(132, 17, 161);
+    position: relative;
+    top: -180px;
+    left: 300px;
+}
+.image22 {
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.h18{
+    background-color: rgb(209, 79, 181);
+    height: 50px;
+    width: 90%;
+    position: relative;
+    top:170px ;
+    left:10px;
+    border-radius: 8px;
+}
+.john3{
+    height: 240px;
+    width: 130%;
+    background-color: rgb(132, 17, 161);
+    position: relative;
+    top: -180px;
+    left: 290px;
+}
+.image23 {
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.h19 {
+    background-color: rgb(209, 79, 181);
+    height: 50px;
+    width: 90%;
+    position: relative;
+    top:170px ;
+    left:10px;
+    border-radius: 8px;
+}
+.john4{
+    height: 240px;
+    width: 130%;
+    background-color: rgb(132, 17, 161);
+    position: relative;
+    top: 70px;
+    left: -672px;
+}
+.image24 {
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.h20 {
+    background-color: rgb(209, 79, 181);
+    height: 50px;
+    width: 90%;
+    position: relative;
+    top:170px ;
+    left:10px;
+    border-radius: 8px;
+}
+.john5{
+    height: 240px;
+    width: 120%;
+    background-color: rgb(132, 17, 161);
+    position: relative;
+    top: -180px;
+    left: 297px;
+}
+.image25 {
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.h21{
+    background-color: rgb(209, 79, 181);
+    height: 50px;
+    width: 90%;
+    position: relative;
+    top:170px ;
+    left:10px;
+    border-radius: 8px;
+}
+.john6{
+    height: 240px;
+    width: 130%;
+    background-color: rgb(132, 17, 161);
+    position: relative;
+    top: -182px;
+    left: 290px;
+}
+.image26 {
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.h22 {
+    background-color: rgb(209, 79, 181);
+    height: 50px;
+    width: 90%;
+    position: relative;
+    top:170px ;
+    left:10px;
+    border-radius: 8px;
+}
+.last{
+    height:90vh ;
+    width: 100%;
+    background-color:rgb(16, 231, 238) ;
+}
+.contact{
+    background-color: rgb(41,52,192);
+    height: 86.5vh;
+    width: 98.5%;
+    position: relative;
+    top:13px ;
+    left:10px ;  
+}
+.contact-us{
+    background-color: rgb(41, 192, 79);
+    height: 120px;
+    width: 98.5%;
+    position: relative;
+    top:10px ;
+    left:10px ;
+}
+.image27{
+    background-color: rgb(209, 79, 181);
+    height: 45px;
+    width: 30%;
+    position: relative;
+    top:11px ;
+    left:450px;
+    border-radius: 8px;
+}
+.h23{
+    background-color: rgb(209, 79, 181);
+    height: 50px;
+    width: 115%;
+    position: relative;
+    top:50px ;
+    left:-25px;
+    border-radius: 8px;
+}
+.contact-image{
+    background-color: rgb(40, 218, 40);
+    height: 402px;
+    width: 140%;
+    position: relative;
+    top:74px ;
+    left:-422px ;
+}
+.image28{
+    background-color: rgb(223, 23, 173);
+    height: 300px; 
+    width: 530px;
+    position: relative;
+    top: 50px; 
+    left:50px;
+}
+.form{
+    background-color: rgb(40, 218, 40);
+    height: 402px;
+    width: 116%;
+    position: relative;
+    top:-50px ;
+    left:630px ;
+}
+.formimage{
+    background-color: rgb(223, 23, 173);
+    height: 300px; 
+    width: 510px;
+    position: relative;
+    top: 50px; 
+    left:50px;
+}
+.last2{
+    height:105vh ;
+    width: 100%;
+    background-color:cadetblue ;
+}
+.contacticons{
+    background-color: rgb(41,52,192);
+    height: 101.5vh;
+    width: 98.5%;
+    position: relative;
+    top:13px ;
+    left:10px ;  
+}
+.contactinfo{
+    background-color: rgb(21, 138, 118);
+    height: 58vh;
+    width: 98.5%;
+    position: relative;
+    top:10px ;
+    left:10px;
+}
+.email{
+    height: 355px;
+    width: 23%;
+    background-color: rgb(161, 17, 17);
+    position: relative;
+    top: 11px;
+    left: 10px;
+}
+.box1{
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.s1 {
+    background-color: rgb(209, 79, 181);
+    height: 40px;
+    width: 90%;
+    position: relative;
+    top:175px ;
+    left:10px;
+    border-radius: 8px;
+}
+.s2 {
+    background-color: rgb(209, 79, 181);
+    height: 40px;
+    width: 110%;
+    position: relative;
+    top:50px ;
+    left:-10px;
+    border-radius: 8px;
+}
+.s3 {
+    background-color: rgb(209, 79, 181);
+    height: 40px;
+    width: 90%;
+    position: relative;
+    top:50px ;
+    left:10px;
+    border-radius: 8px;
+}
+.hours{
+    height: 355px;
+    width: 125%;
+    background-color: rgb(161, 17, 17);
+    position: relative;
+    top: -285px;
+    left: 290px;
+}
+.box2{
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.s4 {
+    background-color: rgb(209, 79, 181);
+    height: 60px;
+    width: 90%;
+    position: relative;
+    top:175px ;
+    left:10px;
+    border-radius: 8px;
+}
+.s5{
+    background-color: rgb(209, 79, 181);
+    height: 60px;
+    width: 110%;
+    position: relative;
+    top:80px ;
+    left:-10px;
+    border-radius: 8px;
+}
+.location{
+    height: 355px;
+    width: 125%;
+    background-color: rgb(161, 17, 17);
+    position: relative;
+    top: -266px;
+    left: 290px;
+}
+.box3{
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.s6 {
+    background-color: rgb(209, 79, 181);
+    height: 60px;
+    width: 90%;
+    position: relative;
+    top:175px ;
+    left:10px;
+    border-radius: 8px;
+}
+.s7{
+    background-color: rgb(209, 79, 181);
+    height: 60px;
+    width: 110%;
+    position: relative;
+    top:80px ;
+    left:-10px;
+    border-radius: 8px;
+}
+.number{
+    height: 355px;
+    width: 115%;
+    background-color: rgb(161, 17, 17);
+    position: relative;
+    top: -266px;
+    left: 314px;
+}
+.box4{
+    background-color: rgb(209, 79, 181);
+    height: 160px;
+    width: 88%;
+    position: relative;
+    top:11px ;
+    left:18px;
+}
+.s8 {
+    background-color: rgb(209, 79, 181);
+    height: 40px;
+    width: 90%;
+    position: relative;
+    top:175px ;
+    left:10px;
+    border-radius: 8px;
+}
+.s9{
+    background-color: rgb(209, 79, 181);
+    height: 40px;
+    width: 110%;
+    position: relative;
+    top:50px ;
+    left:-10px;
+    border-radius: 8px;
+}
+.s10 {
+    background-color: rgb(209, 79, 181);
+    height: 40px;
+    width: 90%;
+    position: relative;
+    top:50px ;
+    left:10px;
+    border-radius: 8px;
+}
+.copyrights{
+    background-color: rgb(208, 238, 36);
+    height: 35vh;
+    width: 519%;
+    position: relative;
+    top:120px ;
+    left:-996px;
+}
+.box5{
+    background-color: rgb(231, 36, 238);
+    height: 20vh;
+    width: 91%;
+    position: relative;
+    top:50px ;
+    left:55px;
+    border-radius: 10px;
+}
+
